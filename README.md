@@ -25,6 +25,7 @@ I wanted to see if this was just me or if this is a measurable thing.
 
 
 <br>
+
 ### ToDo
 I measured the most frequently used lemmas by music genre and word type (verb, adjective, adverb, noun/all others). However it was a bit disappointing as for nearly all charts and word types the most common words are very common ones and don't show much differentiation.
 
